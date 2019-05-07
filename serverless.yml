@@ -1,8 +1,8 @@
 service: workshop-${self:custom.name}
 
 custom:
-  name: <INSERT NAME HERE>
-  email: <INSERT EMAIL HERE>
+  name: tszuhan
+  email: szuhanszky.tamas@gmail.com
 
 plugins:
   - serverless-pseudo-parameters
